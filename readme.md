@@ -15,6 +15,15 @@
 
 **具体使用方法**
 
+在使用之前请先安装SynoAutoDown需要的python库
+```python
+pip install -r requirements.txt
+或者
+pip install requests
+```
+
+`git clone https://github.com/hiddenblue/SynoAutoDown`
+
 在main.py 文件中填入你的用户名和密码（只会在你的本地保留，和我无关）
 
 初始化一个实例对象，比如取名synoauto
