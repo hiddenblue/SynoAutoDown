@@ -22,7 +22,10 @@ pip install -r requirements.txt
 pip install requests
 ```
 
-`git clone https://github.com/hiddenblue/SynoAutoDown`
+```python
+git clone https://github.com/hiddenblue/SynoAutoDown
+cd SynoAutoDown
+```
 
 在main.py 文件中填入你的用户名和密码（只会在你的本地保留，和我无关）
 
